@@ -1,4 +1,4 @@
-module github.com/dell/gofsutil
+module github.com/khareRajshree/gofsutil
 
 go 1.24
 

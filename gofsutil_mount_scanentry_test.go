@@ -19,7 +19,7 @@ import (
 	"strings"
 	"testing"
 
-	"github.com/dell/gofsutil"
+	"github.com/khareRajshree/gofsutil"
 )
 
 func newTestEntryScanFunc(t *testing.T) gofsutil.EntryScanFunc {
